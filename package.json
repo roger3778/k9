@@ -11,7 +11,7 @@
     "start": "vbne.js"
   },
   "keywords": [],
-  "author": "vbne",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "ws": "^7.3.0"
