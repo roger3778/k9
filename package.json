@@ -1,0 +1,19 @@
+{
+  "name": "vbne",
+  "version": "2.0.0",
+  "repository": "",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "description": "",
+  "main": "vbne.js",
+  "scripts": {
+    "start": "vbne.js"
+  },
+  "keywords": [],
+  "author": "vbne",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.3.0"
+  }
+}
