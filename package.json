@@ -6,9 +6,9 @@
     "node": ">=0.10.0"
   },
   "description": "",
-  "main": "vbne.js",
+  "main": "index.js",
   "scripts": {
-    "start": "vbne.js"
+    "start": "index.js"
   },
   "keywords": [],
   "author": "",
